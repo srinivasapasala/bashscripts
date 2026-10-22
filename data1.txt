@@ -1,0 +1,8 @@
+ID,Name,Department,Salary
+101,Alice Smith,Engineering,95000
+102,Bob Jones,Marketing,72000
+103,Charlie Brown,Sales,68000
+104,Diana Prince,Engineering,105000
+105,Evan Wright,HR,60000
+106,Fiona Gallagher,Support,55000
+107,George Clark,Finance,88000
